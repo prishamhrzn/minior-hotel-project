@@ -1,0 +1,30 @@
+*{
+  background-color: rgb(219, 140, 190);
+}
+#header{
+  width: 100%;
+  background-color: aqua;
+  height: 40px;
+  padding-bottom: 5px;
+}
+#left-body{
+  padding-top: 5px;
+  width: 50%;
+  background-color: bisque;
+  height: 500px;
+  float: left;
+}
+#right-body{
+  padding-top: 5px;
+  width: 50%;
+  background-color: rgb(235, 166, 82);
+  height: 500px;
+  float: left;
+}
+#footer{
+  width: 100%;
+  background-color: aqua;
+  height: 40px;
+  padding-bottom: 5px;
+  clear: both;
+}
